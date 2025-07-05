@@ -4,3 +4,4 @@ CREATE TABLE foods(
     price INTEGER NOT NULL,
     image TEXT
 );
+
